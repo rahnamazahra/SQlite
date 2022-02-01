@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/add_contact"
+        android:icon="@drawable/ic_baseline_person_add_24"
+        android:title="add_contact"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/delete_list"
+        android:icon="@drawable/ic_baseline_delete_sweep_24"
+        android:title="Delete all item"
+        app:showAsAction="always" />
+</menu>
